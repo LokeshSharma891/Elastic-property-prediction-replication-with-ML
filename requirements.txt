@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+pymatgen
+matminer
+shap
+joblib
+scipy
